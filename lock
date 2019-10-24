@@ -1,1 +1,4 @@
-false
+i3lock
+killall i3lock
+echo lol
+exit 42
