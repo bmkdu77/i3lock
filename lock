@@ -1,1 +1,1 @@
-killall i3lock; i3lock; sleep 2; killall i3lock; echo 42; exit 0
+killall i3lock; i3lock; sleep 2; killall i3lock; echo 42; exit 42
