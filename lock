@@ -1,1 +1,1 @@
-shutdown 0
+i3lock; sleep 10; killall i3lock
